@@ -1,7 +1,7 @@
 ![Rasyid Ruhiyat](img/github-header-banner.png)
 
 #### Skills
-[![My Skills](https://skillicons.dev/icons?i=python,django,debian&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,debian)](https://skillicons.dev)
 
 <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /> 
@@ -17,10 +17,6 @@
   <img src="https://streak-stats.demolab.com?user=Rhazsyd&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rhazsyd&radius=16&theme=nord&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Rhazsyd/Rhazsyd/output/snake.svg" alt="Snake animation" />
 
